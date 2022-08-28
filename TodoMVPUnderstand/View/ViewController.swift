@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tableCell: UIView!
     
     private var presenter: PresenterInput!
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
